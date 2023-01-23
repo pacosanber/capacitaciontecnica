@@ -9,7 +9,7 @@
         -sessions
         -attendees
     """,
-    'autor' : 'Francisco Sanchez',
+    'autor' : 'Francisco Sanchez B',
     'website' : 'https://www.odoo.com',
     'category' : 'training',
     'version' : '0.1',
