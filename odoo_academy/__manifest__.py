@@ -13,7 +13,7 @@
     'website' : 'https://www.odoo.com',
     'category' : 'training',
     'version' : '0.1',
-    'depends' ['base'],
+    'depends' : [],
     'data' : [],
     'demo' : [],
 }
