@@ -12,7 +12,7 @@
     'autor' : 'Francisco Sanchez B',
     'website' : 'https://www.odoo.com',
     'category' : 'training',
-    'license' : 'MIT',
+    'license' : 'OPL-1',
     'version' : '0.1',
     'depends' : [],
     'data' : [],
