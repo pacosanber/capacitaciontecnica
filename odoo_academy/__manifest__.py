@@ -2,7 +2,7 @@
 
 {
     'name' : 'Odoo Academy',
-    'sumary' : """Academy app yp manage training""",
+    'summary' : """Academy app yp manage training""",
     'description': """
         Academy module to manage training:
         -courses
