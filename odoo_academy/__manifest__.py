@@ -2,13 +2,13 @@
 
 {
     'name' : 'Odoo Academy',
-    'summary' : """Academy app yp manage training""",
-    'description': """
+    'summary' : 'Academy app yp manage training',
+    'description': ```
         Academy module to manage training:
         -courses
         -sessions
         -attendees
-    """,
+    ```,
     'autor' : 'Francisco Sanchez B',
     'website' : 'https://www.odoo.com',
     'category' : 'training',
